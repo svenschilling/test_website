@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Heike Müller",
+        "short": "hm",
+        "email": "heike@gmail.com",
+        "jobtitle": "HR",
+        "address": {
+            "street": "im kleinen felde",
+            "suite": "19",
+            "city": "Eschborn",
+            "zipcode": "536748"
+        },
+        "phone": "069-123456",
+        "github": ""
+    },
+    {
+        "id": 2,
+        "name": "Gerd Müller",
+        "short": "gm",
+        "email": "gerdmüller@gmail.com",
+        "jobtitle": "Hausmeister",
+        "address": {
+            "street": "hohe heide",
+            "suite": "12",
+            "city": "Frankfurt",
+            "zipcode": "61748"
+        },
+        "phone": "069-3234346",
+        "github": ""
+    },
+    {
+        "id": 3,
+        "name": "king lui",
+        "short": "kl",
+        "email": "ultranerd@nerdsparadise.com",
+        "jobtitle": "",
+        "address": {
+            "street": "",
+            "suite": "",
+            "city": "",
+            "zipcode": ""
+        },
+        "phone": "0151-345566834",
+        "github": "https://www.github.com/ultranerd"
+    },
+    {
+        "id": 4,
+        "name": "Oscar Bin",
+        "short": "ob",
+        "email": "trashbinsniffer@gmail.com",
+        "jobtitle": "Professional professional",
+        "address": {
+            "street": "Zur Abfuhr",
+            "suite": "23",
+            "city": "Müllstadt",
+            "zipcode": "012743"
+        },
+        "phone": "12345-123125",
+        "github": "https://www.github.com/trashcollector"
+    }
+]
